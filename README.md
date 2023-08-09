@@ -39,9 +39,8 @@
 <p>This section contains assignments related to Numpy.</p>
 
 <ul>
-    <li>Numpy Assignment 1: <a href="/NumpyAssignment1">NumpyAssignment1</a></li>
-    <li>Numpy Assignment 2: <a href="/NumpyAssignment2">NumpyAssignment2</a></li>
-    <li>Numpy Assignment 3: <a href="/NumpyAssignment3">NumpyAssignment3</a></li>
+    <li>Numpy Assignment 1: <a href="/NumpyAssignment1">NumpyAssignment
+        </a></li>
 </ul>
 
 <p>Each Numpy assignment directory contains the necessary files and code.</p>

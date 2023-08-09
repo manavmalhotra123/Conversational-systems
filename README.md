@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Lab Assignments: Python Basics and Numpy</title>
+    
 </head>
 <body>
 

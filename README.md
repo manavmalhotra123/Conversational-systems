@@ -1,34 +1,58 @@
-Lab Assignments: Python Basics and Numpy
-This repository contains lab assignments for Python Basics and Numpy.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lab Assignments: Python Basics and Numpy</title>
+</head>
+<body>
 
-Table of Contents
-Python Basics Assignments
-Numpy Lab Assignments
-Usage
-Contributing
-License
-Python Basics Assignments
-This section contains assignments related to Python basics.
+<h1>Lab Assignments: Python Basics and Numpy</h1>
 
-Assignment 1: assignment1
-Assignment 2: assignment2
-Assignment 3: assignment3
-Assignment 4: assignment4
-Assignment 5: assignment5
-Assignment 6: assignment6
-Each assignment directory contains the relevant materials and code for that assignment.
+<p>This repository contains lab assignments for Python Basics and Numpy.</p>
 
-Numpy Lab Assignments
-This section contains assignments related to Numpy.
+<h2>Table of Contents</h2>
 
-Numpy Assignment 1: NumpyAssignment1
-Numpy Assignment 2: NumpyAssignment2
-Numpy Assignment 3: NumpyAssignment3
-Each Numpy assignment directory contains the necessary files and code.
+<ul>
+    <li><a href="#python-basics-assignments">Python Basics Assignments</a></li>
+    <li><a href="#numpy-lab-assignments">Numpy Lab Assignments</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+</ul>
 
-Usage
-For each assignment, navigate to the corresponding directory and find the instructions and code files. You can use these assignments to practice and improve your Python and Numpy skills.
+<h2 id="python-basics-assignments">Python Basics Assignments</h2>
 
-Contributing
-If you'd like to contribute improvements, fixes, or new assignments, feel free to submit a pull request. We welcome contributions from the community.
+<p>This section contains assignments related to Python basics.</p>
 
+<ul>
+    <li>Assignment 1: <a href="/assignment1">assignment1</a></li>
+    <li>Assignment 2: <a href="/assignment2">assignment2</a></li>
+    <li>Assignment 3: <a href="/assignment3">assignment3</a></li>
+    <li>Assignment 4: <a href="/assignment4">assignment4</a></li>
+    <li>Assignment 5: <a href="/assignment5">assignment5</a></li>
+    <li>Assignment 6: <a href="/assignment6">assignment6</a></li>
+</ul>
+
+<p>Each assignment directory contains the relevant materials and code for that assignment.</p>
+
+<h2 id="numpy-lab-assignments">Numpy Lab Assignments</h2>
+
+<p>This section contains assignments related to Numpy.</p>
+
+<ul>
+    <li>Numpy Assignment 1: <a href="/NumpyAssignment1">NumpyAssignment1</a></li>
+    <li>Numpy Assignment 2: <a href="/NumpyAssignment2">NumpyAssignment2</a></li>
+    <li>Numpy Assignment 3: <a href="/NumpyAssignment3">NumpyAssignment3</a></li>
+</ul>
+
+<p>Each Numpy assignment directory contains the necessary files and code.</p>
+
+<h2 id="usage">Usage</h2>
+
+<p>For each assignment, navigate to the corresponding directory and find the instructions and code files. You can use these assignments to practice and improve your Python and Numpy skills.</p>
+
+<h2 id="contributing">Contributing</h2>
+
+<p>If you'd like to contribute improvements, fixes, or new assignments, feel free to submit a pull request. We welcome contributions from the community.</p>
+
+</body>
+</html>
